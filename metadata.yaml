@@ -1,0 +1,47 @@
+_repo: The-Wrack-of-the-Storm_17861
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Teixeira de Mattos, Alexander Louis
+    - De Mattos, Alexander Teixeira
+    - Mattos, Alexander Teixeira de
+    - Mattos, Alexander Teixera de
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
+description: ''
+gutenberg_issued: '2006-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17861'
+  lccn: '16019648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918'
+tableOfContents: 'After the victory -- King Albert -- The hostage cities -- To save
+  four cities -- Pro patria: I -- Heroism -- Pro patria: II -- Pro patria: III --
+  Belgium''s flag day -- On the death of a little soldier -- The hour of destiny --
+  In Italy -- On rereading Thucydides -- The dead do not die -- In memoriam -- Supernatural
+  communications in war-time -- Edith Cavell -- The life of the dead -- The war and
+  the prophets -- The will of earth -- For Poland -- The might of the dead -- When
+  the war is over -- The massacre of the innocents.'
+title: The Wrack of the Storm
+url: http://www.gutenberg.org/ebooks/17861
