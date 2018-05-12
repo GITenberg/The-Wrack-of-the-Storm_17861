@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17861#The-Wrack-of-the-Storm
 gutenberg_issued: '2006-02-26'
 gutenberg_type: Text
 identifiers:
